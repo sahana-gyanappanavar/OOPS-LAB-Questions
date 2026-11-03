@@ -12,11 +12,11 @@ The main objective of this repository is to understand programming concepts thro
 
 | Field | Details |
 |---|---|
-| **Name** | Pramod Mulawad |
-| **USN** | 01FE23BEC101 |
-| **Roll Number** | 312 |
+| **Name** | Sahana Ishwarappa Gyanappanavar |
+| **USN** | 01FE23BEC284 |
+| **Roll Number** | 550 |
 | **Branch** | Electronics and Communication Engineering (ECE) |
-| **Division** |c |
+| **Division** |E |
 | **Semester** | 7th |
 | **University** | KLE Technological University |
 | **Subject** | Object-Oriented Programming (OOPS) Lab |
